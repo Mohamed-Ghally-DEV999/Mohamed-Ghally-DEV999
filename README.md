@@ -1,4 +1,4 @@
-# Hey! 👋, I'm Mohammed Ghally
+## Hey! 👋 I'm Mohammed, but I go by 'Conan'—a nod to my detective skills in the world of software mysteries. 🕵️‍♂️
 #### I'm an independent frontend engineer that loves to create digital content based on daily needs & usages 🤯
 
 - 🌱 I’m currently learning everything 🤣
