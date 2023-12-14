@@ -1,5 +1,5 @@
-# Hi there, I'm Mohammed Ghally 👋 
-#### I'm an independent software engineer that loves to create and share useful content about computer science & the web when I'm somehow not writing code because I have no life whatsoever
+# Hey! 👋, I'm Mohammed Ghally
+#### I'm an independent frontend engineer that loves to create digital content based on daily needs & usages 🤯
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2024 Goals: Learn more about React Native 📱
