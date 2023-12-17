@@ -1,5 +1,5 @@
 # Hey! 👋 I'm Mohammed, but I go by 'Conan'—a nod to my detective skills in the world of software mysteries. 🕵️‍♂️
-### I'm an independent frontend engineer that loves to create digital content based on my daily needs & usages 🤯
+### I'm an independent frontend engineer that loves to build web or mobile apps based on my daily needs & usages 🤯
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2024 Goals: Learn more about React Native 📱
